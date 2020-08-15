@@ -1,4 +1,3 @@
-from google.oauth2 import service_account
 import pandas_gbq
 
 import numpy as np
